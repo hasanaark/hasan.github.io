@@ -11,7 +11,7 @@ A free, static, bilingual (English / 中文) portfolio site. No build tools, no 
 
 ## 1. Add your photo
 
-Drop your headshot into `assets/photo.jpg` (any image works, but a tightly-cropped, neutral-background photo matches the design best — same one from your resume works well). Keep the filename `photo.jpg`, or update the `src` in `index.html` under `.hero-photo`.
+Drop your headshot into `/photo.jpg` (any image works, but a tightly-cropped, neutral-background photo matches the design best — same one from your resume works well). Keep the filename `photo.jpg`, or update the `src` in `index.html` under `.hero-photo`.
 
 ## 2. Publish for free on GitHub Pages
 
