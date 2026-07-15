@@ -7,7 +7,7 @@ A free, static, bilingual (English / 中文) portfolio site. No build tools, no 
 - `index.html` — all page content and structure
 - `styles.css` — the design system (navy/brass "technical drawing" theme)
 - `script.js` — language toggle logic
-- `assets/photo.jpg` — **you need to add your own headshot here** (see below)
+- `photo.jpg` — **you need to add your own headshot here** (see below)
 
 ## 1. Add your photo
 
